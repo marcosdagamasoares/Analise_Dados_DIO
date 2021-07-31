@@ -1,2 +1,3 @@
 # Analise-Dados-DIO
-Análise exploratória usando biblioteca Pandas
+Análise exploratória utilizando Python
+biblioteca Pandas e matplotlib para plotagem dos dados
