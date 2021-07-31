@@ -1,0 +1,6 @@
+Analise_de_Dados.zip
+*.xlsx
+!AdventureWorks.xlsx
+df_vendas_novo.csv
+.ipynb_checkpoints/
+
